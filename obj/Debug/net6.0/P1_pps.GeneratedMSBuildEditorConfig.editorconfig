@@ -1,0 +1,67 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = P1_pps
+build_property.RootNamespace = P1_pps
+build_property.ProjectDir = F:\1. Faculdade\4. Quarto Semestre\Programação para Servidores\8. aula - P1\P1_pps\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = F:\1. Faculdade\4. Quarto Semestre\Programação para Servidores\8. aula - P1\P1_pps
+build_property._RazorSourceGeneratorDebug = 
+
+[F:/1. Faculdade/4. Quarto Semestre/Programação para Servidores/8. aula - P1/P1_pps/Views/Funcionarios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuY2lvbmFyaW9zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/1. Faculdade/4. Quarto Semestre/Programação para Servidores/8. aula - P1/P1_pps/Views/Funcionarios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuY2lvbmFyaW9zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/1. Faculdade/4. Quarto Semestre/Programação para Servidores/8. aula - P1/P1_pps/Views/Funcionarios/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuY2lvbmFyaW9zXExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/1. Faculdade/4. Quarto Semestre/Programação para Servidores/8. aula - P1/P1_pps/Views/Home/FormFuncionarios.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGb3JtRnVuY2lvbmFyaW9zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/1. Faculdade/4. Quarto Semestre/Programação para Servidores/8. aula - P1/P1_pps/Views/Home/FormFuncionarios_update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGb3JtRnVuY2lvbmFyaW9zX3VwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/1. Faculdade/4. Quarto Semestre/Programação para Servidores/8. aula - P1/P1_pps/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/1. Faculdade/4. Quarto Semestre/Programação para Servidores/8. aula - P1/P1_pps/Views/Home/Sobre.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTb2JyZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/1. Faculdade/4. Quarto Semestre/Programação para Servidores/8. aula - P1/P1_pps/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/1. Faculdade/4. Quarto Semestre/Programação para Servidores/8. aula - P1/P1_pps/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/1. Faculdade/4. Quarto Semestre/Programação para Servidores/8. aula - P1/P1_pps/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/1. Faculdade/4. Quarto Semestre/Programação para Servidores/8. aula - P1/P1_pps/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/1. Faculdade/4. Quarto Semestre/Programação para Servidores/8. aula - P1/P1_pps/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-v33l3wwqko

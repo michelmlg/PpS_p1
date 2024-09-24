@@ -1,0 +1,85 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\1. Faculdade\\4. Quarto Semestre\\Programação para Servidores\\8. aula - P1\\P1_pps\\P1_pps.csproj": {}
+  },
+  "projects": {
+    "F:\\1. Faculdade\\4. Quarto Semestre\\Programação para Servidores\\8. aula - P1\\P1_pps\\P1_pps.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\1. Faculdade\\4. Quarto Semestre\\Programação para Servidores\\8. aula - P1\\P1_pps\\P1_pps.csproj",
+        "projectName": "P1_pps",
+        "projectPath": "F:\\1. Faculdade\\4. Quarto Semestre\\Programação para Servidores\\8. aula - P1\\P1_pps\\P1_pps.csproj",
+        "packagesPath": "C:\\Users\\aizaw\\.nuget\\packages\\",
+        "outputPath": "F:\\1. Faculdade\\4. Quarto Semestre\\Programação para Servidores\\8. aula - P1\\P1_pps\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\aizaw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "jQuery": {
+              "target": "Package",
+              "version": "[3.7.1, )"
+            },
+            "jquery.mask": {
+              "target": "Package",
+              "version": "[1.14.16, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

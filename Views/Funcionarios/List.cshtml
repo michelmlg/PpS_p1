@@ -1,0 +1,61 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+@model List<P1_pps.Models.Funcionario>
+
+@{
+    ViewData["Title"] = "Lista";
+}
+<div class="mt-5">
+    <h4>Funcionários Registrados</h4>
+    <table class="table table-striped table-hover">
+        <thead class="thead-dark">
+            <tr>
+                <th>Chave Numerica</th>
+                <th>Nome</th>
+                <th>Cpf</th>
+                <th>Data de Nascimento</th>
+                <th>Email</th>
+                <th>Cargo</th>
+                <th>Data de Admissão</th>
+                <th>Nome do Chefe</th>
+                <th>Ação</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Aqui os registros serão exibidos -->
+            @{
+
+
+
+                foreach (var funcionario in Model)
+                {
+                    <tr>
+                        <td>@funcionario.ChaveNumerica</td>
+                        <td>@funcionario.NomeCompleto</td>
+                        <td>@funcionario.Cpf</td>
+                        <td>@funcionario.DataNascimento.ToString("dd/MM/yyyy")</td>
+                        <td>@funcionario.Email</td>
+                        <td>@funcionario.Cargo</td>
+                        <td>@funcionario.DataAdmissao.ToString("dd/MM/yyyy")</td>
+                        <td>@funcionario.NomeChefe</td>
+                        <td>
+                            <div class="d-flex justify-content-sm-between">
+                                <form method="get" asp-controller="Funcionarios" asp-action="Edit" style="display:inline;">
+                                    <input type="hidden" name="ChaveNumerica" value="@funcionario.ChaveNumerica" />
+                                    <button type="submit" class="btn btn-primary">Alterar</button>
+                                </form>
+                                <form method="post" asp-controller="Funcionarios" asp-action="DeleteFuncionario" style="display:inline;">
+                                    <input type="hidden" name="ChaveNumerica" value="@funcionario.ChaveNumerica" />
+                                    <button type="submit" class="btn btn-danger">Deletar</button>
+                                </form>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            }
+
+        </tbody>
+    </table>
+</div>

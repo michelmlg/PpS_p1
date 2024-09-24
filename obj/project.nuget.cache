@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VP04ILJ/xyXzdxfdKPpxbrxdqM9CGO4YzLbga0BsayuUX/s9O5rtGPBNHwMdEJfeNXbPmOF6D3wdrTNRlmjlyw==",
+  "success": true,
+  "projectFilePath": "F:\\1. Faculdade\\4. Quarto Semestre\\Programação para Servidores\\8. aula - P1\\P1_pps\\P1_pps.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aizaw\\.nuget\\packages\\jquery\\3.7.1\\jquery.3.7.1.nupkg.sha512",
+    "C:\\Users\\aizaw\\.nuget\\packages\\jquery.mask\\1.14.16\\jquery.mask.1.14.16.nupkg.sha512",
+    "C:\\Users\\aizaw\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
